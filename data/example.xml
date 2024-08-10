@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="b1" category="fiction">
+        <title lang="en">The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+    </book>
+    <book id="b2" category="non-fiction">
+        <title lang="en">Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <year>2011</year>
+        <price>14.99</price>
+        <publisher>Harper</publisher>
+    </book>
+    <book id="b3" category="fiction">
+        <title lang="en">1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>8.99</price>
+        <publisher>Secker &amp; Warburg</publisher>
+    </book>
+    <magazine id="m1" category="science">
+        <title lang="en">National Geographic</title>
+        <issue>March 2024</issue>
+    </magazine>
+    <newspaper id="n1" category="daily">
+        <title lang="en">The New York Times</title>
+        <date>2024-08-01</date>
+    </newspaper>
+    <staff>
+        <member id="s1" role="librarian">
+            <name>John Doe</name>
+            <age>45</age>
+            <department>Fiction</department>
+        </member>
+        <member id="s2" role="assistant">
+            <name>Jane Smith</name>
+            <age>34</age>
+            <department>Non-Fiction</department>
+        </member>
+    </staff>
+    <comment>End of the library catalog</comment>
+</library>
